@@ -34,4 +34,4 @@ Additionally and ideally, also:
 </ul>
 At Sans Frontiere we take website security very seriously and treat every site we build with the same level of protection, as standard. We also have options for additional layers of security should one of our clients wish to extend their protection even further.
 
-To find out more about our in-house security policy, please <a title="contact" href="http://www.sansfrontiere.co.uk/contact/">get in touch</a>.
+To find out more about our in-house security policy, please <strong><a title="contact" href="http://www.sansfrontiere.co.uk/contact/">get in touch</a>.</strong>
