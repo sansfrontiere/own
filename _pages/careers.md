@@ -16,6 +16,7 @@ Join the team! Sans Frontiere is currently recruiting a Digital Marketing Assist
 JOB DESCRIPTION
 
 Sans Frontiere Marketing is looking for a budding marketer interested in developing a career in a full service agency environment, helping the agency to run smoothly wherever needed whilst assisting our digital team and account managers to deliver digital marketing activity for a portfolio of clients.
+
 This is a fantastic opportunity to get your foot in the door and make a start on your digital marketing career within a well-established agency.
 
 RESPONSIBILITIES
