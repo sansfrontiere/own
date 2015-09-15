@@ -45,6 +45,8 @@ Salary: 16-18K PA, depending on experience
 
 Hours: 9-5:30, Mon-Fri
 
+25 days holiday, plus Bank holidays
+
 <em>We typically look for graduates, however it is not a requirement for this role. We are more interested in individuals who have the core skills and are ready to work hard and learn on the job.</em>
 
 Please email your CV with a cover letter telling us a bit about yourself and how your skills are relevant to the role, and when you are available to start work. Applications should be sent to Chantal Yeung Dresner at chantal@sansfrontiere.co.uk
