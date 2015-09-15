@@ -9,11 +9,9 @@ permalink: >
   http://www.sansfrontiere.co.uk/about/careers/
 published: true
 ---
-Currently recruiting!
+Join the team! Sans Frontiere is currently recruiting a Digital Marketing Assistant.
 
-Sans Frontiere is currently recruiting a Digital Marketing Assistant.
-
-DIGITAL MARKETING ASSISTANT
+<h1>DIGITAL MARKETING ASSISTANT</h1>
 
 JOB DESCRIPTION
 
