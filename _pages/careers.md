@@ -13,20 +13,27 @@ Currently recruiting!
 
 Sans Frontiere is currently recruiting a Digital Marketing Assistant.
 
-<strong>Digital Marketing Assistant</strong>
+DIGITAL MARKETING ASSISTANT
 
-<strong>Job Description</strong>
+JOB DESCRIPTION
+
 Sans Frontiere Marketing is looking for a budding marketer interested in developing a career in a full service agency environment, helping the agency to run smoothly wherever needed whilst assisting our digital team and account managers to deliver digital marketing activity for a portfolio of clients.
 This is a fantastic opportunity to get your foot in the door and make a start on your digital marketing career within a well-established agency.
 
-<strong>Responsibilities</strong>
+RESPONSIBILITIES
+
 Assist with social media delivery, including content creation and scheduling for a portfolio of clients as well as Sans Frontiere’s own social activity
+
 Monitoring relevant industries as pertaining to Sans Frontiere and our clients and providing a daily brief to account managers
+
 Analysing and interpreting social media data and creating monthly client reports
+
 Front of house duties including answering the phone, dealing with enquiries and helping with administrative tasks as required
+
 Supporting the digital team and account managers, performing tasks as required, such as managing media libraries and list building
 
-<strong>Skills:</strong>
+SKILLS
+
 • Know the in and outs of major social platforms: Facebook, Twitter, Pinterest, LinkedIn
 • Copywriting skills; impeccable grammar and spelling
 • MS Office knowledge
