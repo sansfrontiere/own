@@ -21,8 +21,10 @@ strap:
     breaks new ground for you.
 align:
   - "0"
+bannerlink:
+  - ""
 ---
-<h3>We are Google AdWords qualified and can provide sponsorship on the first page of Google with Google Pay-Per-Click AdWords.</h3>
+<h3>Digital Advertising allows your message to be seen where your audience are already looking. We are Google AdWords qualified and can provide sponsorship on the first page of Google with Google Pay-Per-Click AdWords.</h3>
 <strong>PPC</strong>
 How does it work?
 <ul style="margin-top: -10px;">
@@ -37,7 +39,9 @@ How does it work?
 	<li>Leaderboard and MPU placement</li>
 	<li>Social media, Facebook and Twitter campaigns</li>
 </ul>
-<strong>Online advertising &amp; display</strong>
+<strong>Digital advertising &amp; display</strong>
+
+Digital advertising provides a valuable method of engaging with your audience through the channels they already use.
 We can create powerful and effective advertising that attracts hits to our clients' websites and boosts awareness including:
 <ul style="margin-top: -10px;">
 	<li>Copywriting</li>
