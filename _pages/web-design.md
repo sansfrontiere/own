@@ -42,7 +42,13 @@ bannerlink:
 </ul>
 Websites are developed in PHP with MySQL or ASP.net and we can set up virtual hosting environments or manage dedicated servers for you.
 
+<b>Front-end Development</b>
+
+A strong web presence is an essential component of any modern business. Our web design and development teams work to create a website that can act as the core of your business. As the hub of your business, your website is a sophisticated marketing tool. When optimised for performance your website will generate more leads and more sales.
+
 <strong>Responsive Design</strong>
-We design and build websites that intelligently adjust their layout and features based on how they're being viewed - on laptop and increasingly on mobile and tablet devices. Check out our responsive ecommerce web design we have recently developed for <a title="Eyesite" href="http://www.eyesite.co.uk" target="_blank">eyesite.co.uk</a>.
+We design and build websites that intelligently adjust their layout and features based on how they're being viewed. Check out our responsive ecommerce web design we have recently developed for <a title="Eyesite" href="http://www.eyesite.co.uk" target="_blank">eyesite.co.uk</a>.
+
+&nbsp;
 
 See examples of our work<a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong> here</strong>.</a>
