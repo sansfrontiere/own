@@ -18,6 +18,8 @@ strap:
   - 'Raise your profile & get new, as well as current customers, talking about your brand.'
 align:
   - "1"
+bannerlink:
+  - ""
 ---
 <h3>Social media is an incredible opportunity to engage with existing and potential customers, build brand loyalty, raise your profile and position yourself within your industry.</h3>
 In a very organic way, you are able to reach out to people and put yourself in the best possible position when they make key purchasing decisions. Maintaining the immediacy of conversations that occur in public online spaces is vital, but this is extremely time-consuming. We can take on this responsibility for you by:
