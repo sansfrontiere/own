@@ -18,9 +18,11 @@ strap:
   - 'Our original & innovative sites enhance & support your brand, using cutting edge technology.'
 align:
   - "1"
+bannerlink:
+  - ""
 ---
 <h3>Sans Frontiere's team of web designers and programmers design and build effective, informative websites as part of rebranding and marketing strategies.</h3>
-<strong>Website Design</strong>
+<strong>Web Design</strong>
 <ul style="margin-top: -5px;">
 	<li>Original</li>
 	<li>Practical</li>
@@ -41,6 +43,6 @@ align:
 Websites are developed in PHP with MySQL or ASP.net and we can set up virtual hosting environments or manage dedicated servers for you.
 
 <strong>Responsive Design</strong>
-We design and build single websites that intelligently adjust their layout and features, based on how they're being viewed. Check out our responsive ecommerce design we have recently developed for <a title="Eyesite" href="http://www.eyesite.co.uk" target="_blank">eyesite.co.uk</a>.
+We design and build websites that intelligently adjust their layout and features based on how they're being viewed - on laptop and increasingly on mobile and tablet devices. Check out our responsive ecommerce web design we have recently developed for <a title="Eyesite" href="http://www.eyesite.co.uk" target="_blank">eyesite.co.uk</a>.
 
 See examples of our work<a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong> here</strong>.</a>
