@@ -21,7 +21,7 @@ align:
 bannerlink:
   - ""
 ---
-<h3>Sans Frontiere's productions over the years have starred celebrity voiceovers including David Walliams for LD Lines, weatherman Michael Fish for Butlins and Caroline Quentin &amp; Neil Morrissey for Autotrader.</h3>
+<h3>Sans Frontiere's production in TV and Radio over the years has starred a range of celebrities including David Walliams for LD Lines, weatherman Michael Fish for Butlins and Caroline Quentin &amp; Neil Morrissey for Autotrader.</h3>
 Sans Frontiere offers a full commercial production service from script writing and TV storyboards to radio jingles, creative radio ads and TV ads. We also produce video for YouTube, TV voiceovers and travel announcements. We offer our services in all languages and are currently producing material for UK and European customers.
 
 We work with a team of musicians, engineers, producers, scriptwriters, vocalists and voiceover artists who produce the highest broadcast quality audio productions and are used to working to a tight deadline. Our client adverts have appeared on radio and TV stations across the region including Global Radio stations (Heart and Capital) and ITV Meridian.
