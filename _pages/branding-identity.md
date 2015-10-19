@@ -24,13 +24,13 @@ bannerlink:
 <h3>Every company, large or small, needs to have a brand marketing strategy. We can help you to develop and implement your strategy and create firm guidelines for brand communication, synergy and growth.</h3>
 &nbsp;
 
-Your brand is more than a logo, an 'identity' or even your products. Your brand is what your audience intuitively feels when introduced to you. Having a strong brand identity, something that makes you different from competitors is utterly essential to your marketing strategy. By first establishing your brand and then using that as the basis of all communication, this becomes an effective tool for you to build an identity with customers.
+Your brand is more than a logo, an 'identity' or even your products. Your brand is what your audience intuitively feels when introduced to you. Having a strong identity, something that makes you different from competitors is utterly essential to your marketing strategy. By first establishing your brand and then using that as the basis of all communication, this becomes an effective tool for you to build an identity with customers.
 
 We uncover what makes your brand unique by understanding your business objectives, your target market and what makes your business different from everyone else.
 
 We then look at creating or building on your:
 <ul>
-	<li>Key brand values</li>
+	<li>Key branding values</li>
 	<li>Brand positioning</li>
 	<li>Brand proposition</li>
 </ul>
