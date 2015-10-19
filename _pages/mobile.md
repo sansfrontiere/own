@@ -25,7 +25,9 @@ bannerlink:
 <strong>Mobile Design</strong>
 Nowadays having a mobile optimised site is absolutely essential to presenting your brand in a modern, forwards facing manner. Our team of web designers and programmers design and build effective and informative responsive websites that intelligently adjust their layout and features, based on how they're being viewed. This means that you'll never lose a customer due to a frustrating mobile or tablet experience.
 
+Google now also looks at how mobile-friendly your site is when it comes to ranking on search. If your competitors haven't optimised their site for mobile devices, ensuring that your site is able to provide a fantastic mobile and tablet experience is a sure-fire way to boost your ranking.
+
 <strong>Mobile apps</strong>
-Apps should not only allow consumers to connect with a brand, they should also be an engaging experience. We can work with you to design and develop an app that's right for you and your customers and which integrates with your other channels and enhances your brand and business. The whole process is managed by Sans Frontiere to ensure smooth delivery.
+Apps should not only allow consumers to connect with a brand, they should also be an engaging experience all on their own. We can work with you to design and develop an app that's right for you and your customers and which integrates with your other channels and enhances your brand and business. The whole process is managed by Sans Frontiere to ensure smooth delivery.
 
 See examples of our work <a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong>here</strong>.</a>
