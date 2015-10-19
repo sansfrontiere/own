@@ -30,8 +30,8 @@ align:
 bannerlink:
   - https://goo.gl/maps/nVG9T
 ---
-<h3>Get in touch today for a free, no-obligation consultation.</h3>
-Call us on <span class="big greentext lobster">01273 487800</span>
+<h3>Get in touch and contact us today for a free, no-obligation consultation.</h3>
+Call us on <span class="big greentext lobster">01273 487 800</span>
 
 Email us on <span class="greentext"><strong><a href="mailto:info@sansfrontiere.co.uk">info@sansfrontiere.co.uk</a></strong></span>
 
