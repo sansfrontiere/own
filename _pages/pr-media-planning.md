@@ -18,6 +18,8 @@ strap:
   - 'Meaningful coverage in relevant publications. Support your activity with a strategic media campaign across print, broadcast, outdoor & online media.'
 align:
   - "0"
+bannerlink:
+  - ""
 ---
 <h3>At Sans Frontiere, we work closely with our clients to devise and implement a strategic approach to PR that really works.</h3>
 <strong>PR</strong>
