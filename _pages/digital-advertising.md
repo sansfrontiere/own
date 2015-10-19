@@ -24,7 +24,8 @@ align:
 bannerlink:
   - ""
 ---
-<h3>Digital Advertising allows your message to be seen where your audience are already looking. We are Google AdWords qualified and can provide sponsorship on the first page of Google with Google Pay-Per-Click AdWords.</h3>
+<h3>Digital Advertising allows your message to be seen where your audience are already looking.</h3>
+<h3>We are Google AdWords qualified and can provide sponsorship on the first page of Google with Google Pay-Per-Click AdWords.</h3>
 <strong>PPC</strong>
 How does it work?
 <ul style="margin-top: -10px;">
@@ -48,6 +49,6 @@ We can create powerful and effective advertising that attracts hits to our clien
 	<li>Design of interactive and animated leaderboards for MPU's and skyscrapers</li>
 	<li>Media buying and negotiation for cost effective and targeted advertising packages</li>
 </ul>
-&nbsp;
+Digital advertising and communication methods offer fast, versatile, practical and streamlined solutions to those companies that embrace the development of technology. As well as opening an online stream of communication to your audience, digital advertising provides you with an easy means to track to track and monitor the results of your marketing campaign in real time.
 
 <a href="http://www.sansfrontiere.co.uk/contact/" target="_blank">Contact our team for more information today.</a>
