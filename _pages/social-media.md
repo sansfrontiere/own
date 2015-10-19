@@ -32,6 +32,7 @@ Maintaining the immediacy of conversations that occur in public online spaces is
 	<li>Managing and monitoring your online presence</li>
 	<li>Promoting and protecting your brand in this environment</li>
 	<li>Providing swift and helpful responses to customers' requests online</li>
+	<li>Take control of your online community to foster brand loyalty</li>
 	<li>Measuring, analysing and reporting results</li>
 	<li>Optimising the data based on our activity</li>
 </ul>
