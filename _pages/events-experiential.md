@@ -20,10 +20,11 @@ strap:
     support your brand.
 align:
   - "0"
+bannerlink:
+  - ""
 ---
-<h3>Over our 18 years in business we have launched new brands and products across Europe, Ireland and the UK.</h3>
-Brand experiences and corporate hospitality packages offer you the chance
-to inform and reward your most valued clients with an experience they'll never forget.
+<h3>Over our 18 years in business we have launched numerous new brands and products across Europe, Ireland and the UK.</h3>
+Brand experiences and corporate hospitality packages offer you the chance to inform and reward your most valued clients with an experience they'll never forget. Experiential marketing fosters bonds between customer and brand by immersing them in a memorable experience. By associating your brand with this positive experience, clients will leave with a positive feeling to your brand. This approach to marketing creates long term relationships that can benefit your brand far into the future.
 
 We deliver imaginative, insightful and creative solutions for:
 <ul>
