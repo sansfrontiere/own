@@ -20,6 +20,8 @@ strap:
     through strategic and creative design.
 align:
   - "0"
+bannerlink:
+  - ""
 ---
 <h3>Our talented design studio creates unique and successful digital and graphic design solutions for a wide range of brands and organisations.</h3>
 <strong>Brand Communication</strong>
@@ -43,7 +45,11 @@ Whether you are a large organisation or a small/medium sized enterprise, we offe
 </ul>
 See more examples in our <strong><a href="http://www.sansfrontiere.co.uk/work/">work</a></strong> section and call us to arrange for a full presentation. Our enquiry form is <a href="http://www.sansfrontiere.co.uk/contact/"><strong>here</strong>.</a>
 
-<strong>Info Graphics</strong>
+<strong>Infographics</strong>
 We can create graphic visual representations of your information, data or knowledge that present complex information quickly and clearly and help you to communicate to a wider audience.
+
+Our creative design team ensures that whether you're launching a new brand or product, or trying to increase brand exposure, your customers will experience unique and effective design solutions. In both real world and digital markets, our graphic designs provide another method for your company to tell their story to their target audience.
+
+&nbsp;
 
 See examples of our work <a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong>here</strong>.</a>
