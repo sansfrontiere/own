@@ -40,11 +40,14 @@ These will be the basis of all of your communications to ensure:
 	<li>Impact</li>
 	<li>Memorability</li>
 	<li>Campaignability</li>
+	<li>Uniqueness</li>
 </ul>
 We can then create a credible corporate identity that reflects your values and which can then be implemented in key areas of your business:
 <ul>
 	<li>Brochures</li>
 	<li>Website</li>
+	<li>Social Media</li>
+	<li>Marketing Materials</li>
 	<li>Stationery</li>
 	<li>Signage</li>
 	<li>Clothing</li>
