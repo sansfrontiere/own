@@ -31,8 +31,9 @@ We deliver imaginative, insightful and creative solutions for:
 	<li>Events</li>
 	<li>Experiential marketing</li>
 	<li>Corporate hospitality</li>
+	<li>Guerilla marketing</li>
 	<li>Product launches</li>
 </ul>
-We can source product launch venues, corporate events and hospitality packages that are perfect for encouraging press attendance and key client involvement, as well as being used for staff incentive and team building ideas.
+We can source venues that are appropriate for product launches, run corporate events and build corporate hospitality packages. In building your event, we'll ensure that key client involvement and press attendance is encouraged. The comprehensive service we provide ensures a bespoke event experience that both fits your brief and your budget.
 
 See examples of our work <a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong>here</strong>.</a>
