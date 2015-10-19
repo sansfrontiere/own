@@ -41,7 +41,7 @@ These will be the basis of all of your communications to ensure:
 	<li>Memorability</li>
 	<li>Campaignability</li>
 </ul>
-We can then create a credible brand or corporate identity that reflects your values and which can then be implemented in key areas of your business:
+We can then create a credible corporate identity that reflects your values and which can then be implemented in key areas of your business:
 <ul>
 	<li>Brochures</li>
 	<li>Website</li>
