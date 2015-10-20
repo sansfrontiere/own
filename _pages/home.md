@@ -11,7 +11,7 @@ slide_template:
   - default
 ---
 <div class="most">
-<h1 class="tp-hp-intro lighter">Sans Frontiere deliver seamless digital, social, marketing, print and PR solutions. Whether it’s driving web traffic and conversions, launching a new brand or product, increasing brand exposure and engagement on social media, you can rely on us to be there when you need to deliver.</h1>
+<h1 class="tp-hp-intro lighter">Sans Frontiere deliver seamless marketing solutions through digital, social, print and PR. Whether it’s driving web traffic and conversions, launching a new brand or product, increasing brand exposure and engagement on social media, you can rely on us to be there when you need to deliver.</h1>
 
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 
