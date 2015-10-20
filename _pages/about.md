@@ -24,10 +24,10 @@ align:
 bannerlink:
   - ""
 ---
-<h1 class="tp-hp-intro greentext bold">Sans Frontiere's philosophy is summed up in our name - there are no boundaries, no preconceptions, no limits.</h1>
+<h1 class="tp-hp-intro greentext bold">Sans Frontiere's philosophy is summed up in our name - there are no preconceptions, no limits, no boundaries.</h1>
 <h1 class="tp-hp-intro greentext bold">Our goal?</h1>
 <h1 class="tp-hp-intro greentext bold">To strive to go beyond our clients' expectations.</h1>
 &nbsp;
-<div class="leftcol">Established in 1997, we are a full service marketing &amp; communications agency. We love to work closely with our clients, acting as your marketing and PR department or an extension of your internal marketing team.Over the last 18 years we have worked across a huge range of different business sectors, from health to leisure to energy to name just a few.
-
-</div>
+<div class="leftcol">Established in 1997, we are a full service marketing &amp; communications agency. We work closely with our clients to become an extension of your internal marketing department. By working closely with you, we develop an in-depth knowledge of you and your product, allowing you to get your message across and speak to your audience in the most effective way possible. Offering everything from PR through to digital and web design, our comprehensive approach to marketing has allowed us to deliver a range of solutions to businesses across several sectors. From health to leisure to energy, we have built a client base by taking our 'without borders' approach  and providing you with the optimal blend of capabilities to enable you to succeed.</div>
+<div class="leftcol"></div>
+<div class="leftcol">We can be contacted about delivering marketing solutions to you via email at info@sansfrontiere.co.uk or call us on 01273 487 800 for a free consultation.</div>
