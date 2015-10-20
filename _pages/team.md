@@ -15,6 +15,8 @@ title2:
 form:
   - "200"
 ---
-<h1 class="lighter">A great product, brand or service needs a dedicated marketing team behind it. Here at Sans Frontiere we have a specialist team of account managers so that we can respond to your needs quickly, professionally and incisively. Which is probably why many of our clients choose to stay with us, year after year.</h1>
-<hr style="height:3px;border:none;color:#75c044;background-color:#75c044;" />
-[post_grid  id="224"]
+<h1 class="lighter">A great product, brand or service needs a dedicated marketing team behind it. Here at Sans Frontiere we have a specialist team of experts so that we can respond to your needs quickly, professionally and incisively. Which is probably why many of our clients choose to stay with us, year after year.</h1>
+
+<hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
+
+[post_grid id="224"]
