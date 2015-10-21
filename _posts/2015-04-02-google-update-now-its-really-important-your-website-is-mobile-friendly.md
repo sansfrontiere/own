@@ -9,7 +9,7 @@ permalink: >
   http://www.sansfrontiere.co.uk/google-update-now-its-really-important-your-website-is-mobile-friendly/
 published: true
 ---
-Starting April 21<sup>st</sup>, <a href="http://googlewebmastercentral.blogspot.nl/2015/02/finding-more-mobile-friendly-search.html">mobile-friendliness</a> will become an increasingly significant Google ranking factor. Search is the most common starting point for mobile research – we <em>know</em> how important search and mobile are, and have for some time. Why are there still some people out there dragging their feet?
+Starting April 21<sup>st</sup>, <a href="http://googlewebmastercentral.blogspot.nl/2015/02/finding-more-mobile-friendly-search.html">mobile-friendliness</a> will become an increasingly significant Google ranking factor with the roll out of a new Google Update to search algorithms. Search is the most common starting point for mobile research – we <em>know</em> how important search and mobile are, and have for some time. Why are there still some people out there dragging their feet?
 
 Mobile is close to surpassing desktop usage. Marketers need to address that consumers are “<a href="http://www.smartinsights.com/mobile-marketing/mobile-marketing-analytics/mobile-marketing-statistics/">multiscreening”,</a> accessing retail sites on mobile or desktop.
 
