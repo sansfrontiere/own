@@ -14,7 +14,7 @@ title2:
 form:
   - "200"
 ---
-<h1>At Sans Frontiere, we like to share insights, helpful tips and exciting projects</h1>
+<h1>At Sans Frontiere, we like to share insights, helpful tips and exciting projects via our blog</h1>
 
 <hr class="greenline" />
 
