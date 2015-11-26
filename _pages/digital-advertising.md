@@ -24,8 +24,7 @@ align:
 bannerlink:
   - ""
 ---
-<h3>Digital Advertising allows your message to be seen where your audience are already looking.</h3>
-<h3>We are Google AdWords qualified and can provide sponsorship on the first page of Google with Google Pay-Per-Click AdWords.</h3>
+<h3>Digital Advertising allows your message to be seen where your audience are already looking. We are Google AdWords qualified and can provide sponsorship on the first page of Google with Google Pay-Per-Click AdWords.</h3>
 <strong>PPC</strong>
 How does it work?
 <ul style="margin-top: -10px;">
