@@ -32,4 +32,4 @@ Fill out the form on our <a href="http://www.sansfrontiere.co.uk/contact/">cont
 
 See examples of our work <a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong>here</strong>.</a>
 
-If you're interested in working with Sans Frontiere on your TV or Radio production, then contact our team today for a free, non obligation consultation.
+If you're interested in working with Sans Frontiere on your TV or Radio production, then contact our team today for a free, no obligation consultation.
