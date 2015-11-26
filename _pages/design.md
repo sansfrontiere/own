@@ -50,6 +50,4 @@ We can create graphic visual representations of your information, data or knowle
 
 Our creative design team ensures that whether you're launching a new brand or product, or trying to increase brand exposure, your customers will experience unique and effective design solutions. In both real world and digital markets, our graphic designs provide another method for your company to tell their story to their target audience.
 
-&nbsp;
-
 See examples of our work <a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong>here</strong>.</a>
