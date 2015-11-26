@@ -25,7 +25,7 @@ bannerlink:
 In a very organic way, using social media, you are able to reach out to people and put yourself in the best possible position when they make key purchasing decisions. Social media provides you with a channel to interact with customers at every stage of the consumer decision journey. It also provides you with a communication tool that doesn't just speak to those interested in your product, but can reach those who would otherwise have no knowledge of you.
 
 Maintaining the immediacy of conversations that occur in public online spaces is vital, but this is extremely time-consuming. We can take on this responsibility for you by:
-<ul style="margin-top: -10px;">
+<ul>
 	<li>Creating a smart, sustainable social media plan that makes the most of your budget</li>
 	<li>Writing engaging and powerful content to maximise your social investment</li>
 	<li>Building a community around your business</li>
