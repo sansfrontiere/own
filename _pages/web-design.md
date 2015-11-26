@@ -22,7 +22,7 @@ bannerlink:
   - ""
 ---
 <h3>Sans Frontiere's team of web designers and programmers design and build effective, informative websites as part of rebranding and marketing strategies.</h3>
-[tabby title="Web Design"]
+<strong>Web Design</strong>
 <ul style="margin-top: -5px;">
 	<li>Original</li>
 	<li>Practical</li>
@@ -40,16 +40,15 @@ bannerlink:
 	<li>javascript</li>
 	<li>W3C</li>
 </ul>
-
 Websites are developed in PHP with MySQL or ASP.net and we can set up virtual hosting environments or manage dedicated servers for you.
-[tabby title="Front-end Development"]
+
+<b>Front-end Development</b>
 
 A strong web presence is an essential component of any modern business. Our web design and development teams work to create a website that can act as the core of your business. As the hub of your business, your website is a sophisticated marketing tool. When optimised for performance your website will generate more leads and more sales.
 
 <strong>Responsive Design</strong>
 We design and build websites that intelligently adjust their layout and features based on how they're being viewed. Check out our responsive ecommerce web design we have recently developed for <a title="Eyesite" href="http://www.eyesite.co.uk" target="_blank">eyesite.co.uk</a>.
 
-[tabbyending]
-
+&nbsp;
 
 See examples of our work<a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong> here</strong>.</a>
