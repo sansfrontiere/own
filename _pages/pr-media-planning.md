@@ -33,7 +33,7 @@ With over 15 years of experience in advertising and media planning, our team of 
 We pull out all the stops to understand your needs, your target audience and your message. Our creative team and copywriters work together to produce a winning combination of eye-catching designs and compelling copy that best sells your brand and message. Our expertise lies in the way we are able to devise strategies for clients across all media.
 
 We use industry market research tools such as:
-<ul style="margin-top: -10px;">
+<ul>
 	<li>GI lifestyle analysis</li>
 	<li>Nielsen Media Research</li>
 	<li>IPA resource centre</li>
