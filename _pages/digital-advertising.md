@@ -30,15 +30,9 @@ How does it work?
 <ul style="margin-top: -10px;">
 	<li>Set your daily budget</li>
 	<li>You are charged only when someone clicks onto your website link, rather than when your site is advertised</li>
-	<li>PPC would form part of our overall strategy to increase traffic to your website</li>
+	<li>PPC would form part of our overall strategy to increase traffic to your website. <strong>e.g.</strong> Google AdWords, Facebook Ads, Leaderboard and MPU placement, Social media, Facebook and Twitter campaigns</li>
 </ul>
-<strong>e.g.</strong>
-<ul style="margin-top: -10px;">
-	<li>Google AdWords</li>
-	<li>Facebook Ads</li>
-	<li>Leaderboard and MPU placement</li>
-	<li>Social media, Facebook and Twitter campaigns</li>
-</ul>
+
 <strong>Digital advertising &amp; display</strong>
 
 Digital advertising provides a valuable method of engaging with your audience through the channels they already use.
