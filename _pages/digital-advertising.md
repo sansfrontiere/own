@@ -25,8 +25,7 @@ bannerlink:
   - ""
 ---
 <h3>Digital Advertising allows your message to be seen where your audience are already looking. We are Google AdWords qualified and can provide sponsorship on the first page of Google with Google Pay-Per-Click AdWords.</h3>
-<strong>PPC</strong>
-How does it work?
+<strong>PPC – How does it work?</strong>
 <ul>
 	<li>Set your daily budget</li>
 	<li>You are charged only when someone clicks onto your website link, rather than when your site is advertised</li>
