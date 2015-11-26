@@ -35,9 +35,8 @@ How does it work?
 
 <strong>Digital advertising &amp; display</strong>
 
-Digital advertising provides a valuable method of engaging with your audience through the channels they already use.
-We can create powerful and effective advertising that attracts hits to our clients' websites and boosts awareness including:
-<ul style="margin-top: -10px;">
+Digital advertising provides a valuable method of engaging with your audience through the channels they already use. We can create powerful and effective advertising that attracts hits to our clients' websites and boosts awareness including:
+<ul>
 	<li>Copywriting</li>
 	<li>Design of interactive and animated leaderboards for MPU's and skyscrapers</li>
 	<li>Media buying and negotiation for cost effective and targeted advertising packages</li>
