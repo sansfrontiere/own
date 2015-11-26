@@ -30,7 +30,7 @@ How does it work?
 <ul style="margin-top: -10px;">
 	<li>Set your daily budget</li>
 	<li>You are charged only when someone clicks onto your website link, rather than when your site is advertised</li>
-	<li>PPC would form part of our overall strategy to increase traffic to your website, e.g. Google AdWords, Facebook Ads, Leaderboard and MPU placement, Social media, Facebook and Twitter campaigns</li>
+	<li>PPC would form part of our overall strategy to increase traffic to your website, for example Google AdWords, Facebook Ads, Leaderboard and MPU placement, Social media, Facebook and Twitter campaigns</li>
 </ul>
 
 <strong>Digital advertising &amp; display</strong>
