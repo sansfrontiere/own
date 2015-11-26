@@ -48,6 +48,4 @@ A strong web presence is an essential component of any modern business. Our web 
 <strong>Responsive Design</strong>
 We design and build websites that intelligently adjust their layout and features based on how they're being viewed. Check out our responsive ecommerce web design we have recently developed for <a title="Eyesite" href="http://www.eyesite.co.uk" target="_blank">eyesite.co.uk</a>.
 
-&nbsp;
-
 See examples of our work<a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong> here</strong>.</a>
