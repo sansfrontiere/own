@@ -33,7 +33,6 @@ bannerlink:
 </ul>
 
 <strong>Digital advertising &amp; display</strong>
-
 Digital advertising provides a valuable method of engaging with your audience through the channels they already use. We can create powerful and effective advertising that attracts hits to our clients' websites and boosts awareness including:
 <ul>
 	<li>Copywriting</li>
