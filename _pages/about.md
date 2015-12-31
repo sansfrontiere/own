@@ -24,9 +24,7 @@ align:
 bannerlink:
   - ""
 ---
-<h1 class="tp-hp-intro greentext bold">Sans Frontiere's philosophy is summed up in our name - there are no preconceptions, no limits, no boundaries.</h1>
-<h1 class="tp-hp-intro greentext bold">Our goal?</h1>
-<h1 class="tp-hp-intro greentext bold">To strive to go beyond our clients' expectations.</h1>
+<h1 class="tp-hp-intro greentext bold">Sans Frontiere's philosophy is summed up in our name - there are no preconceptions, no limits, no boundaries. Our goal? To strive to go beyond our clients' expectations.</h1>
 &nbsp;
 <div class="leftcol">Established in 1997, we are a full service marketing &amp; communications agency. We work closely with our clients to become an extension of your internal marketing department. By working closely with you, we develop an in-depth knowledge of you and your product, allowing you to get your message across and speak to your audience in the most effective way possible. Offering everything from PR through to digital and web design, our comprehensive approach to marketing has allowed us to deliver a range of solutions to businesses across several sectors. From health to leisure to energy, we have built a client base by taking our 'without borders' approach  and providing you with the optimal blend of capabilities to enable you to succeed.</div>
 <div class="leftcol"></div>
