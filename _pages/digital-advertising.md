@@ -41,4 +41,4 @@ Digital advertising provides a valuable method of engaging with your audience th
 </ul>
 Digital advertising and communication methods offer fast, versatile, practical and streamlined solutions to those companies that embrace the development of technology. As well as opening an online stream of communication to your audience, digital advertising provides you with an easy means to track to track and monitor the results of your marketing campaign in real time.
 
-<a href="http://www.sansfrontiere.co.uk/contact/" target="_blank">Contact our team for more information today.</a>
+<a href="http://www.sansfrontiere.co.uk/contact/" target="_blank"><strong>Contact our team for more information today.</strong></a>
