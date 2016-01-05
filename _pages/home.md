@@ -16,6 +16,10 @@ slide_template:
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 
 </div>
+[metaslider id=955]
+
+<hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
+
 <ul class="thumbs">
 <li id="webdev"><a href="services/web-design/"><img class="size-full wp-image-35" title="Web Design" src="/wp-content/uploads/2014/12/webdev1over.jpg" alt="Web Design" /></a></li>
 <li id="digiads"><a href="services/digital-advertising/"><img class="size-full wp-image-35" title="Digital Advertising" src="/wp-content/uploads/2014/12/digiads1over.jpg" alt="Digital Advertising" /></a></li>
