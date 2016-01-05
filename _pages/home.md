@@ -15,9 +15,6 @@ slide_template:
 
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 
-[metaslider id=955]
-
-<hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 </div>
 <ul class="thumbs">
 <li id="webdev"><a href="services/web-design/"><img class="size-full wp-image-35" title="Web Design" src="/wp-content/uploads/2014/12/webdev1over.jpg" alt="Web Design" /></a></li>
