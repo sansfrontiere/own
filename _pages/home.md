@@ -15,7 +15,6 @@ slide_template:
 
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 
-</div>
 [metaslider id=955]
 
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
@@ -30,3 +29,4 @@ slide_template:
 <li id="branding"><a href="services/branding-identity/"><img class="size-full wp-image-25" title="Branding &amp; Identity" src="/wp-content/uploads/2014/12/branding1over.jpg" alt="Branding &amp; Identity" /></a></li>
 <li id="events"><a href="services/events-experiential/"><img class="size-full wp-image-23" title="Events &amp; Experiential" src="/wp-content/uploads/2014/12/events1over.jpg" alt="Events &amp; Experiential" /></a></li>
 </ul>
+</div>
