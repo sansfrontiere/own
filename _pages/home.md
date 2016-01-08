@@ -16,3 +16,4 @@ slide_template:
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 
 </div>
+[metaslider id=955]
