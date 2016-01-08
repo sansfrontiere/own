@@ -10,6 +10,7 @@ published: true
 slide_template:
   - default
 ---
+<h1 class="tp-hp-intro lighter">At Sans Frontiere we continually invest in our multi-channel approach, building knowledge across many different markets and communication services; this makes it possible for us to deliver dynamic, inspiring and effective solutions and results for all of our clients’ needs, no matter how varied they are. See below for the services we can offer you.</h1>
 <ul class="thumbs">
 <li id="webdev"><a href="services/web-design/"><img class="size-full wp-image-35" title="Web Design" src="/wp-content/uploads/2014/12/webdev1over.jpg" alt="Web Design" /></a></li>
 <li id="digiads"><a href="services/digital-advertising/"><img class="size-full wp-image-35" title="Digital Advertising" src="/wp-content/uploads/2014/12/digiads1over.jpg" alt="Digital Advertising" /></a></li>
