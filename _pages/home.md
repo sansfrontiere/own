@@ -19,5 +19,6 @@ slide_template:
 [metaslider id=955]
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 <div style="text-align:center; width:100%;">
-<h1 class="tp-hp-intro">GET IN TOUCH FOR A <span class="greentext">FREE CONSULTATION</span></h1>
+<h1 class="tp-hp-intro" style="text-align:center;">GET IN TOUCH FOR A <span class="greentext">FREE CONSULTATION</span></h1>
+<p>Call us on <span class="bold bigger">01273 487800</span></p>
 </div>
