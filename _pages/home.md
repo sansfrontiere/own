@@ -21,4 +21,5 @@ slide_template:
 <div style="text-align:center; width:100%;">
 <h1 class="tp-hp-intro" style="text-align:center;">GET IN TOUCH FOR A <span class="greentext">FREE CONSULTATION</span></h1>
 <p>Call us on <span class="bold bigger">01273 487800</span></p>
+<div class="green" style="padding:10px; text-align:center; color:white; text-transform:uppercase;">send us an email &#10148; </div>
 </div>
