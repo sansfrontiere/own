@@ -14,4 +14,4 @@ published: true
 <p style="font-size: 14px; font-weight: bold;">Our Clients
 [advps-slideshow optset="1"]</p>
 [/column]
-<div style="float: left; width: 75%; margin-left: 25%; position: absolute; background-color: #f8fcf5;">[pt_view id="e981433cab"]</div>
+<div class="showclients">[pt_view id="e981433cab"]</div>
