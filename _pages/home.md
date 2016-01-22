@@ -1,6 +1,8 @@
 ---
 ID: 19
-post_title: 'Home &#8211; Sans Frontiere Marketing Communications'
+post_title: >
+  Sans Frontiere Marketing Communications
+  | Sussex Marketing Agency
 author: aliferis
 post_date: 2014-12-12 14:57:11
 post_excerpt: ""
