@@ -6,7 +6,7 @@ post_date: 2016-02-26 09:50:00
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.sansfrontiere.co.uk/international-clients/
+  http://www.sansfrontiere.co.uk/our-clients/international-clients/
 published: true
 banner:
   - "1032"
