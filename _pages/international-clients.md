@@ -8,4 +8,14 @@ layout: page
 permalink: >
   http://www.sansfrontiere.co.uk/international-clients/
 published: true
+banner:
+  - "1032"
+bannerlink:
+  - ""
+menu:
+  - ""
+strap:
+  - ""
+align:
+  - "0"
 ---
