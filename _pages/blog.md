@@ -1,6 +1,6 @@
 ---
 ID: 57
-post_title: Blog
+post_title: Blog | Sans Frontiere Marketing
 author: aliferis
 post_date: 2014-12-12 17:08:13
 post_excerpt: ""
@@ -14,7 +14,7 @@ title2:
 form:
   - "200"
 ---
-<h1>At Sans Frontiere, we like to share insights, helpful tips and exciting projects via our blog</h1>
+<h1>See what we've been up to, share our insights.</h1>
 
 <hr class="greenline" />
 
