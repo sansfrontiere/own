@@ -1,6 +1,6 @@
 ---
 ID: 57
-post_title: Blog | Sans Frontiere Marketing
+post_title: Blog
 author: aliferis
 post_date: 2014-12-12 17:08:13
 post_excerpt: ""
