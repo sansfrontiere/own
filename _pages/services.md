@@ -10,7 +10,7 @@ published: true
 slide_template:
   - default
 ---
-<h1 class="tp-hp-intro lighter">Streamline your experience: all your marketing in one place. Sans Frontiere has expert knowledge across many different markets and communication services. This makes it possible for us to deliver dynamic, inspiring and effective solutions and results with minimal hassle for you.</h1>
+<h1 class="tp-hp-intro lighter">Streamline your experience: all your marketing in one place. Sans Frontiere has expert knowledge across many different markets and communication services. This makes it possible for us to deliver dynamic, inspiring and effective solutions.</h1>
 
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 
