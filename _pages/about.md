@@ -1,6 +1,6 @@
 ---
 ID: 53
-post_title: About | Sans Frontiere Marketing
+post_title: About
 author: aliferis
 post_date: 2014-12-12 17:05:02
 post_excerpt: ""
