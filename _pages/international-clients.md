@@ -1,6 +1,8 @@
 ---
 ID: 1030
-post_title: International Clients
+post_title: >
+  International Clients | Sans Frontiere
+  Marketing
 author: aliferis
 post_date: 2016-02-26 09:50:00
 post_excerpt: ""
@@ -21,7 +23,7 @@ align:
 ---
 Having an agency established in the UK can make a significant difference to your business when launching in this new market.
 
-Our detailed knowledge and expertise, gained over 20 years of experience, will enable you to penetrate the UK market and launch your brand and products successfully.
+Our detailed knowledge and expertise, gained over 20 years of experience, will enable you to penetrate the UK market and launch your brand and products successfully. Given our range of services, you can streamline your processes and work with one supplier.
 
 We have been working with clients in a range industries, establishing their brands in the UK and European market.
 
