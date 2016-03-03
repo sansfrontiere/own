@@ -1,6 +1,6 @@
 ---
 ID: 277
-post_title: Our Clients | Sans Frontiere Marketing
+post_title: Our Clients
 author: aliferis
 post_date: 2015-03-09 16:24:21
 post_excerpt: ""
