@@ -1,6 +1,6 @@
 ---
 ID: 218
-post_title: Work | Sans Frontiere Marketing
+post_title: Work
 author: aliferis
 post_date: 2015-02-16 17:12:14
 post_excerpt: ""
