@@ -1,8 +1,6 @@
 ---
 ID: 1030
-post_title: >
-  International Clients | Sans Frontiere
-  Marketing
+post_title: International Clients
 author: aliferis
 post_date: 2016-02-26 09:50:00
 post_excerpt: ""
