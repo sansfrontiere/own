@@ -19,12 +19,8 @@ strap:
 align:
   - "0"
 ---
-Having an agency established in the UK can make a significant difference to your business when launching in this new market.
+Having an agency established in the UK can make a significant difference to your business when launching in this new market. Our detailed knowledge and expertise, gained over 20 years of experience, will enable you to penetrate the UK market and launch your brand and products successfully.
 
-Our detailed knowledge and expertise, gained over 20 years of experience, will enable you to penetrate the UK market and launch your brand and products successfully. Given our range of services, you can streamline your processes and work with one supplier.
+Given our range of services, you can streamline your processes and work with one marketing supplier to create effective, integrated campaigns and consistent messaging.
 
-We have been working with clients in a range industries, establishing their brands in the UK and European market.
-
-As a UK agency experienced working with international clients, we are comfortable working closely with you acting as your strategists, marketing and PR department.
-
-We’d like you to think of us as part of your internal marketing team!
+We work with clients in a range industries. As a UK agency experienced working with international clients, we are comfortable working closely with you acting as your strategists, marketing and PR department. We’d like you to think of us as part of your internal marketing team - you can count on us to deliver outstanding work on time and on budget.
