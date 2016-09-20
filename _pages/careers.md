@@ -9,7 +9,7 @@ permalink: >
   http://www.sansfrontiere.co.uk/about/careers/
 published: true
 ---
-Join the team! Sans Frontiere is currently recruiting a Digital Marketing Executive / Account Manager.
+Join the team! Sans Frontiere is currently recruiting a Digital Account Manager.
 <h1>DIGITAL ACCOUNT MANAGER</h1>
 JOB DESCRIPTION
 
