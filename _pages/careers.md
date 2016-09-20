@@ -21,17 +21,15 @@ You should have solid digital marketing knowledge and a strategic mind. Our offi
 
 RESPONSIBILITIES
 
-• Manage existing budgets and social media channels, as well as create and execute new digital &amp; social media marketing strategies across all agency retained clients.
-• Create and deliver content and campaigns across a range of social media channels including Facebook, Twitter, Instagram, Google Plus, Linkedin.
-• Create and implement Paid digital campaigns inc. Google Adwords, Mobile &amp; Display Network, PPC, Email
-• Work alongside our web design team to help maintain and improve our portfolio of sites, particulary in terms of on site SEO - we work primarily with Wordpress.
 • Strategise, sell, advise and execute on all aspects of digital strategy and budgets across all agency retained clients
 • Strategise and execute paid digital campaigns inc. Google Adwords Search &amp; Display, Email marketing
-• Create and deliver content and campaigns across a range of social media channels including Facebook, Twitter, Instagram, Google Plus, Linkedin • Develop clear briefs for web developers and designers
+• Create and deliver content and campaigns across a range of social media channels including Facebook, Twitter, Instagram, Google Plus, Linkedin 
+• Develop clear briefs for web developers and designers
 • Work alongside our web design team to help maintain and improve our portfolio of sites - we work primarily with Wordpress
 • Manage agency clients to ensure campaigns are delivering against set KPI´s and create regular reports for both clients and account managers
 • Analyse and report findings from campaigns and activities and optimise accordingly (using Google analytics, social media monitoring tools e.g. Hootsuite, Email monitoring e.g. Campaign Monitor).
-• Pursue new business opportunities • Prepare and present new business proposals
+• Pursue new business opportunities 
+• Prepare and present new business proposals
 • Manage the agency’s own online presence on Twitter, Facebook, Google Plus and our website
 
 PERSON SPECIFICATION
