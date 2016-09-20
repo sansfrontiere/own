@@ -10,7 +10,7 @@ permalink: >
 published: true
 ---
 Join the team! Sans Frontiere is currently recruiting a Digital Marketing Executive / Account Manager.
-<h1>DIGITAL MARKETING EXECUTIVE/ACCOUNT MANAGER</h1>
+<h1>DIGITAL ACCOUNT MANAGER</h1>
 JOB DESCRIPTION
 
 Sans Frontiere is seeking an ambitious and enthusiastic Digital Marketing Executive/Account Manager.
