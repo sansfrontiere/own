@@ -1,6 +1,6 @@
 ---
 ID: 791
-post_title: Careers | Sans Frontiere Marketing
+post_title: Careers
 author: Chantal Yeung Dresner
 post_date: 2015-09-15 12:37:02
 post_excerpt: ""
@@ -23,12 +23,12 @@ RESPONSIBILITIES
 
 • Strategise, sell, advise and execute on all aspects of digital strategy and budgets across all agency retained clients
 • Strategise and execute paid digital campaigns inc. Google Adwords Search &amp; Display, Email marketing
-• Create and deliver content and campaigns across a range of social media channels including Facebook, Twitter, Instagram, Google Plus, Linkedin 
+• Create and deliver content and campaigns across a range of social media channels including Facebook, Twitter, Instagram, Google Plus, Linkedin
 • Develop clear briefs for web developers and designers
 • Work alongside our web design team to help maintain and improve our portfolio of sites - we work primarily with Wordpress
 • Manage agency clients to ensure campaigns are delivering against set KPI´s and create regular reports for both clients and account managers
 • Analyse and report findings from campaigns and activities and optimise accordingly (using Google analytics, social media monitoring tools e.g. Hootsuite, Email monitoring e.g. Campaign Monitor).
-• Pursue new business opportunities 
+• Pursue new business opportunities
 • Prepare and present new business proposals
 • Manage the agency’s own online presence on Twitter, Facebook, Google Plus and our website
 
