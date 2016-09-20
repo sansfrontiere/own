@@ -40,8 +40,6 @@ Freelance, part-time or permanent considered.
 
 &nbsp;
 
-Hours: 9-5:30, Mon-Fri
-
-25 days holiday, plus Bank holidays
+25 days holiday, plus Bank holidays (pro rata)
 
 Please apply to: audrey@sansfrontiere.co.uk with CV and covering letter which must include current salary or freelance rates. We look forward to hearing from you.
