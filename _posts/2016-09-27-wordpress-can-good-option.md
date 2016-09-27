@@ -15,7 +15,7 @@ published: true
 
 Building websites is no exception to this <a href="https://en.wikipedia.org/wiki/Proverb" target="_blank">proverb</a> and using Wordpress is one technique among many. So, the question is: when to use Wordpress.
 
-Wordpress is ostensibly a <a href="https://en.wikipedia.org/wiki/Content_management_system">CMS</a> (Content Management System). One among many, but also the World's most popular CMS by quite a big margin - and not without good cause. In short, Wordpress is pretty amazing in many ways - especially given that its <a href="https://opensource.com/resources/what-open-source" target="_blank">Open Source</a> and free. But like any good tool, its as much about how its used as what its capable of. The capabilities only create potential - not results in themselves.
+Wordpress is ostensibly a <span style="text-decoration: underline;"><a href="https://en.wikipedia.org/wiki/Content_management_system">CMS</a></span> (Content Management System). One among many, but also the <span style="text-decoration: underline;"><a href="http://trends.builtwith.com/cms">World's most popular CMS</a></span> by quite a big margin - and not without good cause. In short, Wordpress is pretty amazing in many ways - especially given that its <a href="https://opensource.com/resources/what-open-source" target="_blank">Open Source</a> and free. But like any good tool, its as much about how its used as what its capable of. The capabilities only create potential - not results in themselves.
 
 So what can we do with Wordpress and what are the advantages of using this amazing tool?
 
