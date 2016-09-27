@@ -34,9 +34,9 @@ The <span style="text-decoration: underline;"><a href="http://www.ferroli.co.uk"
 <strong>Here are the core things:</strong>
 <ul>
  	<li>Wordpress is a very powerful CMS, out of the box. This means as well as getting a great website you also get great online tools for managing your site.</li>
- 	<li>Wordpress is Open Source - this means that not only is the toolset free but there is a huge online community supporting Wordpress developers. This has been one of the greatest successes of Wordpress - to build such a huge online community. Its a big reason why Wordpress has become ubiquitous.</li>
+ 	<li>Its is Open Source - this means that not only is the toolset free but there is a huge online community supporting Wordpress developers. This has been one of the greatest successes of Wordpress - to build such a huge online community. Its a big reason why Wordpress has become ubiquitous.</li>
  	<li>Wordpress is flexible and customisable. Unlike some CMS systems, the Wordpress templating system is powerful and flexible. It means there are almost no limits imposed on the scope of what can be achieved in a creative sense. As well as this, the underlying logic of Wordpress is flexible too, meaning that in the right hands, the application becomes almost a framework that facilitates development of bespoke functionality.</li>
- 	<li>Wordpress is continually evolving.</li>
+ 	<li>Its is continually evolving.</li>
  	<li>Wordpress has an extensible architecture. In short, there are many thousands of very good 3rd party plugins available via the curated Wordpress repository - many free and some paid, that add modules of functionality to the Wordpress core, extending the scope of what can be achieved beyond almost all limits.</li>
 </ul>
 The bottom line however is that, in the right hands, leveraging the power of Wordpress can mean huge savings getting an idea or a product off the ground. It means faster, more effective routes from concept to production. A modern marketing agency like ours would be crazy not to be taking advantage of this for our clients.
