@@ -41,8 +41,7 @@ The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" t
  	<li>Wordpress has an extensible architecture. In short, there are many thousands of very good 3rd party plugins available via the curated Wordpress repository - many free and some paid, that add modules of functionality to the Wordpress core, extending the scope of what can be achieved beyond almost all limits.</li>
 </ul>
 The bottom line however is that, in the right hands, leveraging the power of Wordpress can mean huge savings getting an idea or a product off the ground. It means faster, more effective routes from concept to production. A modern marketing agency like ours would be crazy not to be taking advantage of this for our clients.
-
-Here are a few examples of solutions that can be built using Wordpress plus customisation.
+<h4>Examples of solutions that can be built using Wordpress plus customisation.</h4>
 <ul>
  	<li>Ecommerce</li>
  	<li>Events systems</li>
