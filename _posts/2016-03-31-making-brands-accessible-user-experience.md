@@ -11,7 +11,7 @@ permalink: >
   http://www.sansfrontiere.co.uk/making-brands-accessible-user-experience/
 published: true
 ---
-Your brand needs to be accessible. Today’s consumers have a wealth of resources at their fingertips that will influence their purchasing decision. That means you need to provide a positive user experience from the start so how do you make your brand accessible with user experience?
+Your brand needs to be accessible. Today’s consumers have a wealth of resources at their fingertips that will influence their purchasing decision. That means you need to provide a positive user experience from the start so what's the key to making brands accessible?
 
 Younger consumers especially are very savvy and have high expectations for a smooth user experience when they are doing their research. User experience usually refers to the design of websites and apps, but your brand isn’t separate from the experience they have with your communications in all formats– your website, brochures, stores, social media. Their experiences with all these channels will influence their perception of you and your products.
 
