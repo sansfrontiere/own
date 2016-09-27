@@ -28,7 +28,7 @@ For example, <span style="text-decoration: underline;"><a href="http://www.colas
 
 For example, the <a href="http://ecertsecure.co.uk/" target="_blank">Ecertsecure</a> website is an attractive and effective online marketing device, showing off their products and services in a contemporary style. The same is true of its sister website, <a href="http://www.emergesecure.com/" target="_blank">Emergesecure</a>.
 
-The <span style="text-decoration: underline;"><a href="http://www.ferroli.uk" target="_blank">Ferroli</a></span> website is, among many other things, doing high transaction ecommerce. The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" target="_blank">SEAS</a></span> website also sells an array of memberships online.
+The <span style="text-decoration: underline;"><a href="http://www.ferroli.co.uk" target="_blank">Ferroli</a></span> website is, among many other things, doing high transaction ecommerce. The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" target="_blank">SEAS</a></span> website also sells an array of memberships online.
 
 <strong>What are the advantages of using Wordpress?</strong>
 Here are the core things:
