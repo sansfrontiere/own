@@ -52,3 +52,4 @@ Here are a few examples of solutions that can be built using Wordpress plus cust
  	<li>Multi-platform apps</li>
  	<li>Membership sites and community portals</li>
 </ul>
+If you would like to talk to us about leveraging the power of Wordpress, please <a href="/contact">get in touch</a>
