@@ -11,6 +11,7 @@ permalink: >
   http://www.sansfrontiere.co.uk/wordpress-can-good-option/
 published: true
 ---
+<h3>When it comes to websites and marketing, Wordpress can offer advantages</h3>
 <em>"There's more than one way to skin a cat"</em> - as the <a href="http://idioms.thefreedictionary.com/There%27s+more+than+one+way+to+skin+a+cat" target="_blank">idiom</a> goes.
 
 Building websites is no exception to this <a href="https://en.wikipedia.org/wiki/Proverb" target="_blank">proverb</a> and using Wordpress is one technique among many. So, the question is: when to use Wordpress.
