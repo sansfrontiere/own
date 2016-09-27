@@ -8,7 +8,7 @@ post_date: 2016-09-27 10:57:07
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.sansfrontiere.co.uk/wordpress-can-good-option/
+  http://www.sansfrontiere.co.uk/wordpress-development/
 published: true
 ---
 <h3>Wordpress enables us</h3>
