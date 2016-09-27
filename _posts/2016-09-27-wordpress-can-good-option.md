@@ -11,7 +11,7 @@ permalink: >
   http://www.sansfrontiere.co.uk/wordpress-can-good-option/
 published: true
 ---
-<h3>When it comes to websites and marketing, Wordpress can offer advantages</h3>
+<h3>Wordpress enables us</h3>
 <em>"There's more than one way to skin a cat"</em> - as the <a href="http://idioms.thefreedictionary.com/There%27s+more+than+one+way+to+skin+a+cat" target="_blank">idiom</a> goes.
 
 Building websites is no exception to this <a href="https://en.wikipedia.org/wiki/Proverb" target="_blank">proverb</a> and using Wordpress is one technique among many. So, the question is: when to use Wordpress.
@@ -20,11 +20,9 @@ Wordpress is ostensibly a <span style="text-decoration: underline;"><a href="htt
 
 So what can we do with Wordpress and what are the advantages of using this amazing tool?
 
-To see what can be done with Wordpress, just take a look at our Portfolio of Work. Much of it has been achieved using Wordpress. The diversity of the websites in our portfolio - both in terms of design concepts and functionality, should convince you of the power and flexibility of Wordpress in the right hands.
-
-<strong>Our Portfolio</strong>
-<a href="http://www.sansfrontiere.co.uk/work/">http://www.sansfrontiere.co.uk/work/</a>
-
+To see some finished examples of what can be done with Wordpress, just take a look at our Portfolio of Work. Much of it has been achieved using Wordpress. The diversity of the websites in our portfolio - both in terms of design concepts and functionality, should convince you of the power and flexibility of Wordpress in the right hands.
+<h3><strong>Our Portfolio</strong>
+<a href="http://www.sansfrontiere.co.uk/work/">http://www.sansfrontiere.co.uk/work/</a></h3>
 For example, <span style="text-decoration: underline;"><a href="http://www.installersmate.co.uk" target="_blank">InstallersMate</a></span> is a membership application that connects to the GasSafe API, allowing users to create their GasSafe notifications in a simple interface then have every other aspect of this process taken care of for them, including annual reminders, warranty certificates and more.
 
 For example, <span style="text-decoration: underline;"><a href="http://www.colastoves.co.uk" target="_blank">Cola Stoves</a></span> is a searchable product database - providing a simple interface for potential customers to search, filter and browse these sophisticated products in an intuitive way.
@@ -32,9 +30,8 @@ For example, <span style="text-decoration: underline;"><a href="http://www.colas
 For example, the <a href="http://ecertsecure.co.uk/" target="_blank">Ecertsecure</a> website is an attractive and effective online marketing device, showing off their products and services in a contemporary style. The same is true of its sister website, <a href="http://www.emergesecure.com/" target="_blank">Emergesecure</a>.
 
 The <span style="text-decoration: underline;"><a href="http://www.ferroli.co.uk" target="_blank">Ferroli</a></span> website is, among many other things, doing high transaction ecommerce. The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" target="_blank">SEAS</a></span> website also sells an array of memberships online.
-
-<strong>What are the advantages of using Wordpress?</strong>
-Here are the core things:
+<h3><strong>What are the advantages of using Wordpress?</strong></h3>
+<strong>Here are the core things:</strong>
 <ul>
  	<li>Wordpress is a very powerful CMS, out of the box. This means as well as getting a great website you also get great online tools for managing your site.</li>
  	<li>Wordpress is Open Source - this means that not only is the toolset free but there is a huge online community supporting Wordpress developers. This has been one of the greatest successes of Wordpress - to build such a huge online community. Its a big reason why Wordpress has become ubiquitous.</li>
