@@ -28,9 +28,9 @@ To see some finished examples of what can be done with the Wordpress development
 
 The <a href="http://ecertsecure.co.uk/" target="_blank" rel="nofollow">Ecertsecure</a> website is an attractive and effective online marketing device, showing off their products and services in a contemporary style. The same is true of its sister website, <a href="http://www.emergesecure.com/" target="_blank" rel="nofollow">Emergesecure</a>.
 
-The <span style="text-decoration: underline;"><a href="http://www.ferroli.co.uk" target="_blank" rel="nofollow">Ferroli</a></span> website is, among many other things, doing high transaction ecommerce.
+As well as a powerful marketing tool, the <span style="text-decoration: underline;"><a href="http://www.ferroli.co.uk" target="_blank" rel="nofollow">Ferroli</a></span> website is doing high transaction ecommerce.
 
-The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" target="_blank" rel="nofollow">SEAS</a></span> website also sells an array of memberships online.
+The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" target="_blank" rel="nofollow">SEAS</a></span> website is a huge marketing tool also offering an events system and selling an array of memberships online.
 <h3>What are the advantages of Wordpress development?</h3>
 <strong>Here are the core things:</strong>
 <ul>
