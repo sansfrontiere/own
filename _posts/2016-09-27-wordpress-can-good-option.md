@@ -21,7 +21,7 @@ Wordpress is ostensibly a <span style="text-decoration: underline;"><a href="htt
 So what can we do with Wordpress and what are the advantages of using this amazing tool?
 
 To see some finished examples of what can be done with Wordpress, just take a look at our Portfolio of Work. Much of it has been achieved using Wordpress. The diversity of the websites in our portfolio - both in terms of design concepts and functionality, should convince you of the power and flexibility of Wordpress in the right hands.
-<h3><strong>Our Portfolio</strong>
+<h3>Our Portfolio
 <a href="http://www.sansfrontiere.co.uk/work/">http://www.sansfrontiere.co.uk/work/</a></h3>
 For example, <span style="text-decoration: underline;"><a href="http://www.installersmate.co.uk" target="_blank">InstallersMate</a></span> is a membership application that connects to the GasSafe API, allowing users to create their GasSafe notifications in a simple interface then have every other aspect of this process taken care of for them, including annual reminders, warranty certificates and more.
 
@@ -30,7 +30,7 @@ For example, <span style="text-decoration: underline;"><a href="http://www.colas
 For example, the <a href="http://ecertsecure.co.uk/" target="_blank">Ecertsecure</a> website is an attractive and effective online marketing device, showing off their products and services in a contemporary style. The same is true of its sister website, <a href="http://www.emergesecure.com/" target="_blank">Emergesecure</a>.
 
 The <span style="text-decoration: underline;"><a href="http://www.ferroli.co.uk" target="_blank">Ferroli</a></span> website is, among many other things, doing high transaction ecommerce. The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" target="_blank">SEAS</a></span> website also sells an array of memberships online.
-<h3><strong>What are the advantages of using Wordpress?</strong></h3>
+<h3>What are the advantages of using Wordpress?</h3>
 <strong>Here are the core things:</strong>
 <ul>
  	<li>Wordpress is a very powerful CMS, out of the box. This means as well as getting a great website you also get great online tools for managing your site.</li>
