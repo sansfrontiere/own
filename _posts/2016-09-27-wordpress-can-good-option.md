@@ -1,6 +1,6 @@
 ---
 ID: 1105
-post_title: Why WordPress can be a good option
+post_title: Why WordPress can be a great option
 author: aliferis
 post_date: 2016-09-27 10:57:07
 post_excerpt: ""
