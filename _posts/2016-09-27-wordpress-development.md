@@ -14,11 +14,11 @@ published: true
 <h3>Wordpress development enables us</h3>
 Its true that Wordpress development is one technique among many. So, the question is: when to use Wordpress.
 
-Wordpress is ostensibly a <span style="text-decoration: underline;"><a href="https://en.wikipedia.org/wiki/Content_management_system">CMS</a></span> (Content Management System). One among many, but also the <span style="text-decoration: underline;"><a href="http://trends.builtwith.com/cms">World's most popular CMS</a></span> by quite a big margin - and not without good cause. In short, Wordpress is pretty amazing in many ways - especially given that its <a href="https://opensource.com/resources/what-open-source" target="_blank">Open Source</a> and free. But like any good tool, its as much about how its used as what its capable of. The capabilities only create potential - not results in themselves.
+Wordpress is ostensibly a <span style="text-decoration: underline;"><a href="https://en.wikipedia.org/wiki/Content_management_system">CMS</a></span> (Content Management System). One among many, but also the <span style="text-decoration: underline;"><a href="http://trends.builtwith.com/cms">World's most popular CMS</a></span> by quite a big margin and not without good cause. In short, Wordpress is pretty amazing in many ways, especially given that its <a href="https://opensource.com/resources/what-open-source" target="_blank">Open Source</a> and free. But like any good tool, its as much about how its used as what its capable of. The capabilities only create potential. Not results by themselves.
 
 So what can we do with Wordpress and what are the advantages of using this amazing tool?
 
-To see some finished examples of what can be done with Wordpress, just take a look at our Portfolio of Work. Much of it has been achieved using Wordpress. The diversity of the websites in our portfolio - both in terms of design concepts and functionality, should convince you of the power and flexibility of Wordpress in the right hands.
+To see some finished examples of what can be done with the Wordpress development approach, just take a look at our Portfolio of Work. Much of it has been achieved using Wordpress development. The diversity of the websites in our portfolio - both in terms of design concepts and functionality, should convince you of the power and flexibility of Wordpress in the right hands.
 <h3>Our Portfolio</h3>
 <a href="http://www.sansfrontiere.co.uk/work/">http://www.sansfrontiere.co.uk/work/</a>
 
@@ -29,7 +29,7 @@ To see some finished examples of what can be done with Wordpress, just take a lo
 The <a href="http://ecertsecure.co.uk/" target="_blank">Ecertsecure</a> website is an attractive and effective online marketing device, showing off their products and services in a contemporary style. The same is true of its sister website, <a href="http://www.emergesecure.com/" target="_blank">Emergesecure</a>.
 
 The <span style="text-decoration: underline;"><a href="http://www.ferroli.co.uk" target="_blank">Ferroli</a></span> website is, among many other things, doing high transaction ecommerce. The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" target="_blank">SEAS</a></span> website also sells an array of memberships online.
-<h3>What are the advantages of using Wordpress?</h3>
+<h3>What are the advantages of Wordpress development?</h3>
 <strong>Here are the core things:</strong>
 <ul>
  	<li>Wordpress is a very powerful CMS, out of the box. This means as well as getting a great website you also get great online tools for managing your site.</li>
