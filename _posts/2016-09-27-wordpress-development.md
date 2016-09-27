@@ -12,7 +12,7 @@ permalink: >
 published: true
 ---
 <h3>Wordpress development enables us</h3>
-Its true that Wordpress development is one technique among many. So, the question is: when to use Wordpress.
+Whilst its true that Wordpress development is one technique among many. So, the question is: when to use Wordpress.
 
 Wordpress is ostensibly a <span style="text-decoration: underline;"><a href="https://en.wikipedia.org/wiki/Content_management_system" target="_blank" rel="nofollow">CMS</a></span> (Content Management System). One among many, but also the <span style="text-decoration: underline;"><a href="http://trends.builtwith.com/cms" rel="nofollow">World's most popular CMS</a></span> by quite a big margin. Not without good cause. Wordpress is pretty amazing in many ways, especially given that its <a href="https://opensource.com/resources/what-open-source" target="_blank" rel="nofollow">Open Source</a> and free. But like any good tool, its as much about how its used as what its capable of. The capabilities only create potential. Not results by themselves.
 
