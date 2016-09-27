@@ -22,13 +22,13 @@ To see what can be done with Wordpress, just take a look at our Portfolio of Wor
 <strong>Our Portfolio</strong>
 <a href="http://www.sansfrontiere.co.uk/work/">http://www.sansfrontiere.co.uk/work/</a>
 
-For example, <a href="http://www.installersmate.co.uk" target="_blank">InstallersMate</a> is a membership application that connects to the GasSafe API, allowing users to create their GasSafe notifications in a simple interface then have every other aspect of this process taken care of for them, including annual reminders, warranty certificates and more.
+For example, <span style="text-decoration: underline;"><a href="http://www.installersmate.co.uk" target="_blank">InstallersMate</a></span> is a membership application that connects to the GasSafe API, allowing users to create their GasSafe notifications in a simple interface then have every other aspect of this process taken care of for them, including annual reminders, warranty certificates and more.
 
-For example, <a href="http://www.colastoves.co.uk" target="_blank">Cola Stoves</a> is a searchable product database - providing a simple interface for potential customers to search, filter and browse these sophisticated products in an intuitive way.
+For example, <span style="text-decoration: underline;"><a href="http://www.colastoves.co.uk" target="_blank">Cola Stoves</a></span> is a searchable product database - providing a simple interface for potential customers to search, filter and browse these sophisticated products in an intuitive way.
 
 For example, the <a href="http://ecertsecure.co.uk/" target="_blank">Ecertsecure</a> website is an attractive and effective online marketing device, showing off their products and services in a contemporary style. The same is true of its sister website, <a href="http://www.emergesecure.com/" target="_blank">Emergesecure</a>.
 
-The <a href="http://www.ferroli.uk" target="_blank">Ferroli</a> website is, among many other things, doing high transaction ecommerce. The <a href="http://www.seas.org.uk" target="_blank">SEAS</a> website also sells an array of memberships online.
+The <span style="text-decoration: underline;"><a href="http://www.ferroli.uk" target="_blank">Ferroli</a></span> website is, among many other things, doing high transaction ecommerce. The <span style="text-decoration: underline;"><a href="http://www.seas.org.uk" target="_blank">SEAS</a></span> website also sells an array of memberships online.
 
 <strong>What are the advantages of using Wordpress?</strong>
 Here are the core things:
