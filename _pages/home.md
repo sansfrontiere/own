@@ -13,7 +13,7 @@ slide_template:
   - default
 ---
 <div class="most">
-<h1 class="tp-hp-intro lighter">Sans Frontiere is a leading full-service Sussex marketing agency. We deliver seamless digital, social, marketing, print and PR solutions. Streamline your marketing with one agency: you can rely on our experienced team to be there when you need to deliver.</h1>
+<h1 class="tp-hp-intro lighter">Sans Frontiere is a leading full-service Sussex marketing agency. We deliver seamless digital, social, marketing, print and PR solutions. Streamline your marketing with one agency. You can rely on our experienced team to be there when you need to deliver.</h1>
 
 <hr style="height: 3px; border: none; color: #75c044; background-color: #75c044;" />
 
