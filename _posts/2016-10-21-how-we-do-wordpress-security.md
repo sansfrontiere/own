@@ -1,6 +1,8 @@
 ---
 ID: 1146
-post_title: How we do WordPress security
+post_title: >
+  How we do WordPress security. Fighting
+  off the sharks
 author: aliferis
 post_date: 2016-10-21 11:43:59
 post_excerpt: ""
@@ -9,7 +11,6 @@ permalink: >
   http://www.sansfrontiere.co.uk/how-we-do-wordpress-security/
 published: true
 ---
-<h2><em>Keeping the sharks out at Sansfrontiere Marketing</em></h2>
 At Sansfrontiere, we don't use a single generic approach to security for all websites and web applications.
 
 As an example, for Wordpress sites, we employ a Wordpress specific security policy that involves a Wordpress specific firewall and a Wordpress-centric approach to security hardening.
