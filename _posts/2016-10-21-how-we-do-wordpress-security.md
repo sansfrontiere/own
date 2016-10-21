@@ -16,7 +16,7 @@ At Sansfrontiere, we don't use a single generic approach to security for all web
 As an example, for Wordpress sites, we employ a Wordpress specific security policy that involves a Wordpress specific firewall and a Wordpress-centric approach to security hardening.
 
 Did your eyes just glaze over reading that last sentence? If so, you might prefer a metaphor or an analogue for all this techie stuff.
-
+<h4>Boats versus Sharks!</h4>
 If your Wordpress website or application is an ocean liner (or even a modest yacht or a tug boat), imagine it floating on the high seas, surrounded by sharks. The sharks want to get into the boat and wreak havoc so they circle your boat, trying to find a vulnerability.
 
 Now your boat could be ultra modern or a nice old vessel, lovingly looked after to keep it seaworthy. In either case, seaworthiness and the ability to fend off the sharks are two different things. Anti-shark defenses are an essential addition to any boat, if you're serious about keeping the sharks out.
