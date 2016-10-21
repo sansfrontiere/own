@@ -1,8 +1,8 @@
 ---
 ID: 1146
 post_title: >
-  How we do WordPress security. Fighting
-  off the sharks
+  Fighting off the sharks. How we do
+  WordPress security.
 author: aliferis
 post_date: 2016-10-21 11:43:59
 post_excerpt: ""
