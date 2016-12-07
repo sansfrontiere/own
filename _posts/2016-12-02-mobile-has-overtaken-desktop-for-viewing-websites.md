@@ -21,7 +21,7 @@ Mobile has overtaken desktop for viewing websites. With today's mobile workforce
  	<li>Calls to action and buttons are in the wrong place or too small, so users can't move around your website and make purchases.</li>
  	<li>Your company phone number or address is not prominent enough; users on mobile usually need this information so they can get in touch quickly.</li>
 </ul>
-If your website is making these mistakes <a href="mailto:jason@sansfrontiere.co.uk">get in touch</a> and we can review your website.
+If your website is making these mistakes<strong> <a href="/contact">get in touch</a> </strong>and we can review your website.
 
 <strong>What are the causes of mobile user increase?</strong>
 <ul>
