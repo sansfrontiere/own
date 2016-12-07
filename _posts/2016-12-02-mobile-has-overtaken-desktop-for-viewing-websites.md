@@ -35,6 +35,6 @@ If your website is making these mistakes <a href="mailto:jason@sansfrontiere.co.
 
 <strong>What does that mean for your existing website?</strong>
 
-Quite simply, you could be missing out on sales and revenue. Some argue that customers do not always purchase via mobile, but even so, they will definitely be researching your products and services to make a purchase later. If your website does not supply this product information easily then you may be negatively impacting your sales. An update last year by Google resulted in non-mobile websites falling down search results ranking, so your company website will be harder to find by your customers and competitors will be displayed instead.
+Quite simply, in a World where mobile has overtaken desktop for viewing websites, you could be missing out on sales and revenue. Some argue that customers do not always purchase via mobile, but even so, they will definitely be researching your products and services to make a purchase later. If your website does not supply this product information easily then you may be negatively impacting your sales. An update last year by Google resulted in non-mobile websites falling down search results ranking, so your company website will be harder to find by your customers and competitors will be displayed instead.
 
 </div>
