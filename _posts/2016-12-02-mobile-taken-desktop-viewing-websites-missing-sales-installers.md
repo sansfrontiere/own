@@ -28,7 +28,7 @@ If your website is making these mistakes <a href="mailto:jason@sansfrontiere.co.
  	<li>People are searching differently; Google announced last year that there are more searches on mobile than tablet and desktop combined</li>
 </ul>
 </div>
-<div align="center"><img src="http://i1.cmail20.com/ei/r/25/6B5/A68/235156/csfinal/Unknown-11.png" alt="" width="600" /></div>
+<div align="center"></div>
 <div>
 
 <strong>What does that mean for your existing website?</strong>
