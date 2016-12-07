@@ -1,6 +1,8 @@
 ---
 ID: 1163
-post_title: 'Mobile has overtaken desktop for viewing websites &#8211; are you missing out on sales?'
+post_title: >
+  Mobile has overtaken desktop for viewing
+  websites. Are you missing out on sales?
 author: aliferis
 post_date: 2016-12-02 15:06:49
 post_excerpt: ""
