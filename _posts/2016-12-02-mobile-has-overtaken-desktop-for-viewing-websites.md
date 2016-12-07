@@ -8,7 +8,7 @@ post_date: 2016-12-02 15:06:49
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.sansfrontiere.co.uk/mobile-taken-desktop-viewing-websites-missing-sales-installers/
+  http://www.sansfrontiere.co.uk/mobile-has-overtaken-desktop-for-viewing-websites/
 published: true
 ---
 <div>
