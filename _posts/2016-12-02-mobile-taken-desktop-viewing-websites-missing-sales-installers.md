@@ -1,6 +1,6 @@
 ---
 ID: 1163
-post_title: 'Mobile has taken over from desktop for viewing websites &#8211; are you missing out on sales?'
+post_title: 'Mobile has overtaken desktop for viewing websites &#8211; are you missing out on sales?'
 author: aliferis
 post_date: 2016-12-02 15:06:49
 post_excerpt: ""
@@ -11,7 +11,7 @@ published: true
 ---
 <div>
 
-By the nature of the work, installers are usually away from desktop computers and on their mobiles. By not having a mobile optimised site, you will be missing out on your key customers, how they access your site and ultimately, sales.
+Mobile has overtaken desktop for viewing websites. With today's mobile workforce, many potential customers are away from desktop computers and accessing your website on their mobile devices. By not having a mobile optimised site, you will be missing out on your key customers and ultimately, missing out on sales.
 
 <strong>Common mistakes for websites on mobile</strong>
 <ul>
@@ -31,8 +31,8 @@ If your website is making these mistakes <a href="mailto:jason@sansfrontiere.co.
 <div align="center"><img src="http://i1.cmail20.com/ei/r/25/6B5/A68/235156/csfinal/Unknown-11.png" alt="" width="600" /></div>
 <div>
 
-<strong>What does that mean for your existing website in the installer market?</strong>
+<strong>What does that mean for your existing website?</strong>
 
-Quite simply, you could be missing out on sales and revenue. Some web managers argue that installers do not purchase via mobile, but installers will definitely be researching your products and services to make a purchase later. If your website does not supply this product information easily then you may be negatively impacting your sales. An update last year by Google resulted in non-mobile websites falling down search results ranking, so your company website will be harder to find by your customers and competitors will be displayed instead.
+Quite simply, you could be missing out on sales and revenue. Some argue that customers do not always purchase via mobile, but even so, they will definitely be researching your products and services to make a purchase later. If your website does not supply this product information easily then you may be negatively impacting your sales. An update last year by Google resulted in non-mobile websites falling down search results ranking, so your company website will be harder to find by your customers and competitors will be displayed instead.
 
 </div>
