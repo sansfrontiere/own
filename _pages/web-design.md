@@ -41,7 +41,7 @@ bannerlink:
  	<li>PHP</li>
  	<li>W3C</li>
 </ul>
-Websites are developed in PHP with MySQL or ASP.net and we can set up virtual hosting environments or manage dedicated servers for you.
+Websites are primarily developed in PHP / MySQL and we provide hosting via our Cloudways infrastructure.
 
 <b>Front-end Development</b>
 A strong web presence is an essential component of any modern business. Our web design and development teams work to create a website that can act as the core of your business. As the hub of your business, your website is a sophisticated marketing tool. When optimised for performance your website will generate more leads and more sales.
