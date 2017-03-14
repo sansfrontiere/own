@@ -44,7 +44,7 @@ We provide high quality, managed hosting via our Cloudways infrastructure.
 <strong>Your website is a sophisticated marketing tool at the core of your business.
 </strong>A strong web presence is an essential component of any modern business. Our web design and development teams work to create a website that will generate more leads and more sales.
 
-<strong>Publish once, view everywhere</strong>
+<strong>Publish once, view everywhere.</strong>
 We design and build websites that intelligently adjust their layout for the device they are viewed on. This will help to maximize your audience reach, shorten your bounce rate, increase your conversions.
 
 See examples of our work<a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong> here</strong>.</a>
