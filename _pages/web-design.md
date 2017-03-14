@@ -41,10 +41,10 @@ bannerlink:
 </ul>
 We provide high quality, managed hosting via our Cloudways infrastructure.
 
-<b>Front-end Development</b>
-A strong web presence is an essential component of any modern business. Our web design and development teams work to create a website that can act as the core of your business. As the hub of your business, your website is a sophisticated marketing tool. When optimised for performance your website will generate more leads and more sales.
+<strong>Your website is a sophisticated marketing tool at the core of your business.
+</strong>A strong web presence is an essential component of any modern business. Our web design and development teams work to create a website that will generate more leads and more sales.
 
-<strong>Responsive Design</strong>
-We design and build websites that intelligently adjust their layout and features based on how they're being viewed. Check out our responsive ecommerce web design we have recently developed for <a title="Eyesite" href="http://www.eyesite.co.uk" target="_blank">eyesite.co.uk</a>.
+<strong>Publish once, view everywhere</strong>
+We design and build websites that intelligently adjust their layout for the device they are viewed on. This will help to maximize your audience reach, shorten your bounce rate, increase your conversions.
 
 See examples of our work<a title="Work" href="http://www.sansfrontiere.co.uk/work/"><strong> here</strong>.</a>
