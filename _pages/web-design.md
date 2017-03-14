@@ -21,27 +21,25 @@ align:
 bannerlink:
   - ""
 ---
-<h3>Sans Frontiere's team of web designers and programmers design and build effective, informative websites as part of rebranding and marketing strategies.</h3>
-<strong>Web Design</strong>
+<h3>At Sans Frontiere we build effective, informative websites that are SEO optimised. Our methods and practices are designed to balance cost-effective production with flexibility and great design. We take speed and security very seriously.</h3>
+<strong>Our websites are
+</strong>
 <ul style="margin-top: -5px;">
  	<li>Original</li>
- 	<li>Practical</li>
- 	<li>Innovative</li>
+ 	<li>Compatible</li>
+ 	<li>Optimised</li>
  	<li>Eye-catching</li>
  	<li>Easy to navigate</li>
  	<li>Responsive</li>
 </ul>
-<strong>We use the latest technologies &amp; standards
+<strong>We also pay close attention to
 </strong>
 <ul style="margin-top: -5px;">
- 	<li>xHTML</li>
- 	<li>HTML5</li>
- 	<li>CSS3</li>
- 	<li>jQuery</li>
- 	<li>PHP</li>
- 	<li>W3C</li>
+ 	<li>SEO factors</li>
+ 	<li>Current standards</li>
+ 	<li>Security</li>
 </ul>
-Websites are primarily developed in PHP / MySQL and we provide hosting via our Cloudways infrastructure.
+We provide high quality, managed hosting via our Cloudways infrastructure.
 
 <b>Front-end Development</b>
 A strong web presence is an essential component of any modern business. Our web design and development teams work to create a website that can act as the core of your business. As the hub of your business, your website is a sophisticated marketing tool. When optimised for performance your website will generate more leads and more sales.
