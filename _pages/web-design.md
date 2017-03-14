@@ -24,21 +24,22 @@ bannerlink:
 <h3>Sans Frontiere's team of web designers and programmers design and build effective, informative websites as part of rebranding and marketing strategies.</h3>
 <strong>Web Design</strong>
 <ul style="margin-top: -5px;">
-	<li>Original</li>
-	<li>Practical</li>
-	<li>Innovative</li>
-	<li>Eye-catching</li>
-	<li>Easy to navigate</li>
-	<li>Responsive</li>
+ 	<li>Original</li>
+ 	<li>Practical</li>
+ 	<li>Innovative</li>
+ 	<li>Eye-catching</li>
+ 	<li>Easy to navigate</li>
+ 	<li>Responsive</li>
 </ul>
-<strong>We use the latest technology</strong>
+<strong>We use the latest technologies &amp; standards
+</strong>
 <ul style="margin-top: -5px;">
-	<li>xHTML</li>
-	<li>HTML5</li>
-	<li>CSS3</li>
-	<li>jQuery</li>
-	<li>javascript</li>
-	<li>W3C</li>
+ 	<li>xHTML</li>
+ 	<li>HTML5</li>
+ 	<li>CSS3</li>
+ 	<li>jQuery</li>
+ 	<li>PHP</li>
+ 	<li>W3C</li>
 </ul>
 Websites are developed in PHP with MySQL or ASP.net and we can set up virtual hosting environments or manage dedicated servers for you.
 
